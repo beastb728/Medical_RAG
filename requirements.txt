@@ -1,0 +1,7 @@
+streamlit
+chromadb
+requests
+numpy
+tqdm
+python-dotenv
+PyPDF2
